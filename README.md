@@ -58,3 +58,4 @@ Abre http://localhost:5000 en tu navegador.
 Inicia sesión con admin@example.com y contraseña password.
 
 ejemplo
+![image](https://github.com/user-attachments/assets/e9390a6e-5473-4ff1-a70b-59710e60b1ff)
