@@ -59,3 +59,11 @@ Inicia sesión con admin@example.com y contraseña password.
 
 ejemplo
 ![image](https://github.com/user-attachments/assets/e9390a6e-5473-4ff1-a70b-59710e60b1ff)
+![image](https://github.com/user-attachments/assets/a4db221a-510e-40d6-8d06-afa3b5ac112a)
+![image](https://github.com/user-attachments/assets/54231141-76c7-4f11-8b9d-3ce1197f5e22)
+![image](https://github.com/user-attachments/assets/c9071726-754f-435a-a35e-60d2a4799733)
+![image](https://github.com/user-attachments/assets/5598a6dc-aa3e-4d68-a8f9-7cc87c352336)
+
+
+
+
